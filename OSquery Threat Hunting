@@ -1,0 +1,12 @@
+
+
+OSQuery Definition: OSQuery uses basic SQL commands to leverage a relational data-model to describe a device.
+Ref : https://github.com/osquery
+
+Github Repo:  
+  https://github.com/Kirtar22/ThreatHunting_with_Osquery
+
+
+Blogs:
+  https://www.socinvestigation.com/osquery-for-cyber-incident-response/
+  https://hacker0ni.com/posts/fim-osquery/
